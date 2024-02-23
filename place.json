@@ -6,7 +6,7 @@
     "subtitle": "الدليل السياحي للمناطق السياحية لولاية جيجل الساحلية و أهم المعالم و المزارات الترفيهية و الإستجمامية",
     "place": "جيجل",
     "country": "DZ",
-    "categories": ["shore"],
+    "categories": ["shore","city","lake","mount","park","mall","street","valley"],
     "imgh": "https://raw.githubusercontent.com/cabdellah/Gca/main/img/h.jpg",
     "imgv": "https://raw.githubusercontent.com/cabdellah/Gca/main/img/v.jpg",
     "local": "https://maps.app.goo.gl/VrURw8iXLSYJTNRC9"
